@@ -7,6 +7,8 @@ Co-chairs:
 
 ## Meetings
 
+| Date        | Topic |
+|-------------|-------|
 | 24 Feb 2020 | [Task Force Kickoff](https://w3c-ccg.github.io/meetings/2020-02-24-infrastructure) |
 
 
